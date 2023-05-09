@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.2
 
 intro:
-  - excerpt: ' :seedling: Growing up through experience :seedling:'
+  - excerpt: ' :seedling: Growing up through experience :seedling: '
 
 feature_row:
   - image_path: assets/images/exp_0.png
@@ -128,7 +128,7 @@ feature_row4:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" %}
+ 
 
 {% include feature_row id="feature_row3" %}
 

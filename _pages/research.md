@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.2
 ---
 
-## Current Research
+## Research In Progress
 - Yeonsoo Lee, Eunsoo Kim, Hye-jin Kim. ["The Body Speaks: the Effects of Machine-Extracted Body Pose in Image Contents"](https://soo-13.github.io/exp0/) *(manuscripted)*
 
 ## Publications
