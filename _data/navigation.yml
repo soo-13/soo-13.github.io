@@ -1,0 +1,26 @@
+# main links
+main:
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
+    url: /
+
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+  # - title: "Course"
+  #   url: /Course/
+
+  - title: "Research"
+    url: /research/
+
+  # - title: "Course Work"
+  #   url: /course_work/
+
+  - title: "Activities"
+    url: /activities/    
+
+  - title: "Experience"
+    url: /experience/    
+
