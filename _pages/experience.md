@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.2
 
 intro:
-  - excerpt: ' :seedling: Growing up through experience :seedling: '
+  - excerpt: '&#x1F331; Growing up through experience &#x1F331;'
 
 feature_row:
   - image_path: assets/images/exp_0.png
