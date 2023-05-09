@@ -9,9 +9,9 @@ header:
   overlay_filter: 0.2
 
 feature_row:
-  - image_path: assets/images/pose1.jpeg
+  - image_path: assets/images/pose1.png
     alt: "placeholder image 1"
-  - image_path: assets/images/prose2.jpeg
+  - image_path: assets/images/pose2.png
     alt: "placeholder image 2"
 ---
   
