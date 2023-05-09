@@ -8,13 +8,13 @@ header:
   overlay_filter: 0.2
 
 intro:
-  - excerpt: ':seedling: Growing up through experience :seedling:'
+  - excerpt: ' :seedling: Growing up through experience :seedling:'
 
 feature_row:
   - image_path: assets/images/exp_0.png
     alt: "placeholder image 1"
     title: "AI Innovation Square <br/> (AI Business Model Course)"
-    excerpt: "Role: Team Leader"
+    excerpt: '<span style="background-color: #FA8072; border-radius: 5px; padding: 2px 6px; font-size: 14px;">research</span>'
     url: "https://haribojun.github.io/exp0"
     btn_label: "Read More"
     btn_class: "btn--primary"   
