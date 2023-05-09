@@ -4,15 +4,11 @@ permalink: /experience/
 layout: splash
 author_profile: true
 header:
-  overlay_image: /assets/images/background_YS.png
+  overlay_image: /assets/images/backgroundYS.png
   overlay_filter: 0.2
 
 intro:
-  - excerpt: '"Learn from yesterday, live for today, hope for tomorrow.
-<br/>
-   The important thing is not to stop questioning."  
-<br/>
-   by Albert Einstein'
+  - excerpt: ':seedling: Growing up through experience :seedling:'
 
 feature_row:
   - image_path: assets/images/exp_0.png
