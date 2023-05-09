@@ -4,8 +4,8 @@ permalink: /experience/
 layout: splash
 author_profile: true
 header:
-  overlay_image: /assets/images/background.jpg
-  overlay_filter: 0.5
+  overlay_image: /assets/images/background_YS.png
+  overlay_filter: 0.2
 
 intro:
   - excerpt: '"Learn from yesterday, live for today, hope for tomorrow.
