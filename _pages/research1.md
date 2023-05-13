@@ -1,11 +1,11 @@
 ---  
-title: "Experience"
-permalink: /exp0/
+title: "Research"
+permalink: /research1/
 layout: single
 classes: wide
 author_profile: true
 header:
-  overlay_image: /assets/images/backgroundYS.png
+  overlay_image: /assets/images/backgroundYS.jpeg
   overlay_filter: 0.2
 
 feature_row:

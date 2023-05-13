@@ -12,15 +12,14 @@ main:
   # - title: "Course"
   #   url: /Course/
 
+  - title: "CV"
+    url: /cv/
+
   - title: "Research"
     url: /research/
 
-  # - title: "Course Work"
-  #   url: /course_work/
-
-  - title: "Activities"
-    url: /activities/    
+  - title: "Course Work"
+    url: /course_work/
 
   - title: "Experience"
     url: /experience/    
-
