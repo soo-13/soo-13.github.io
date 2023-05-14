@@ -24,4 +24,4 @@ Department: College of Business
 
 ---
 **Course Overview**
-{% include feature_row id="feature_row1" %}
+
