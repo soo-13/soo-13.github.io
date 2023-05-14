@@ -12,7 +12,7 @@ feature_row:
   - image_path: assets/images/profile2.jpeg
     alt: "placeholder image 1"
     title: Welcome!
-    excerpt: "I'm Yeonsoo Lee, a graduate student at The School of Business and Technology Management, KAIST. I am studying quantitative marketing and my research interest includes social media marketing, advertising, and aesthetics evaluation of consumer. I am interested in generating insights from visual content by applying computer vision and deeplearning. <br/><br/> I like fun things. I like hang out with people and listening to different thoughts. I like simple and fun idea that everyone can connect to. "
+    excerpt: "I'm Yeonsoo Lee, a graduate student at The School of Business and Technology Management, KAIST. My focus is on quantitative marketing, with research interests in social media marketing, advertising, and aesthetics evaluation of consumer behavior. I'm particularly interested in generating insights from visual content by applying computer vision and deeplearning. <br/><br/> I like fun things. I like hang out with people and listening to different thoughts. I like simple and fun idea that everyone can connect to. "
 
 ---
 {% include feature_row id="feature_row" type="left" %}
@@ -35,7 +35,7 @@ feature_row:
 &#x1F525;**Upcoming**&#x1F525; Presenting at the ISMS Marketing Science Conference in Miami *23.06.09* <br>
 &#x1F64C; Participated in the KU Interational Symposium of Marketing *23.05.12*  <br>
 &#x1F4E2;&#xFE0F; Presented [my latest research](https://soo-13.github.io/research1/) at a conference held by The Korean Association for Information Society *23.05.12* <br>
-
+&#x1F64C; Joined Linkedin![Follow me](https://www.linkedin.com/in/yeonsoo-lee-smileystar) *23.03.24*  <br>
 <!-- 
 ## Skills
 Tools &#30; **Python, R, Qualtrics, Linux, Latex** <br>

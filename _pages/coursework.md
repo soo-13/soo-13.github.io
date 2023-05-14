@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.2
 
 intro:
- - excerpt: '&#x1F4DA; Unlock Knowledge, Build a Strong Foundation &#x1F4DA;'
+ - excerpt: '&#x1F4DA; Building a Strong Foundation, Step by Step &#x1F4DA;'
 
 feature_row1:
   - title: "Quantitative Models for Marketing Decisions"

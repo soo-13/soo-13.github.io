@@ -40,13 +40,13 @@ Grade: A+ <br>
 - Goldstein, N. J., Cialdini, R. B., & Griskevicius, V. (2008). A room with a viewpoint: Using social norms to motivate environmental conservation in hotels. *Journal of consumer Research*, 35(3), 472-482.
 - Cheng, C. M., & Chartrand, T. L. (2003). Self-monitoring without awareness: using mimicry as a nonconscious affiliation strategy. *Journal of personality and social psychology*, 85(6), 1170.
 
-**W8 Self-control** *[Thought Paper](https://soo-13.github.io/assets/pdf/W7ThoughtPaper.pdf)*
+**W8 Self-control** *[Thought Paper](https://soo-13.github.io/assets/pdf/W8ThoughtPaper.pdf)*
 - Wertenbroch, K. (1998). Consumption self-control by rationing purchase quantities of virtue and vice. *Marketing science*, 17(4), 317-337.
 - Schwartz, J., Mochon, D., Wyper, L., Maroba, J., Patel, D., & Ariely, D. (2014). Healthier by precommitment. *Psychological science*, 25(2), 538-546.
 - Baumeister, R. F., Bratslavsky, E., Muraven, M., & Tice, D. M. (1998). Ego depletion: Is the active self a limited resource?. *Journal of personality and social psychology*, 74(5), 1252.
 -  Dewitte, S., Bruyneel, S., & Geyskens, K. (2009). Self-regulating enhances self-regulation in subsequent consumer decisions involving similar response conflicts. *Journal of Consumer Research*, 36(3), 394-405.
 
-**W8 Affect and Emotion** *[Thought Paper](https://soo-13.github.io/assets/pdf/W8ThoughtPaper.pdf)*
+**W8 Affect and Emotion** *[Thought Paper](https://soo-13.github.io/assets/pdf/W9ThoughtPaper.pdf)*
 - Berger, J., & Milkman, K. L. (2012). What makes online content viral?. *Journal of marketing research*, 49(2), 192-205.
 - Lerner, J. S., Small, D. A., & Loewenstein, G. (2004). Heart strings and purse strings: Carryover effects of emotions on economic decisions. *Psychological science*, 15(5), 337-341.
 - Garg, N., Wansink, B., & Inman, J. J. (2007). The influence of incidental affect on consumers’ food intake. *Journal of Marketing*, 71(1), 194-206.

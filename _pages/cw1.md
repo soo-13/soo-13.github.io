@@ -6,18 +6,6 @@ classes: wide
 author_profile: true
 header:
   overlay_image: /assets/images/backgroundYS.jpeg
-
-feature_row1:
-  - excerpt: '<b>Introductory Lecture</b> <br>
-    - Sequential vs. simultaneous move games <br> 
-    - Nash equilibrium <br>
-    - Mixed strategies <br>
-    - Repeated games <br>
-    - Signaling games'
-  - excerpt: '<b>Paper Discussion</b> <br>
-  Chen, Y., Narasimhan, C., &amp; Zhang, Z. J. &#40;2001&#41;. Individual marketing with imperfect targetability. <i>Marketing Science</i>, 20&#410;1&#41;, 23&#45;41.
-  '
-
 ---
 # Quantitative Models for Marketing Decisions
 Instructor: professor Junju Yu <br>
@@ -34,9 +22,9 @@ The course consists of introductory lectures on basic concepts of game theory an
 - Mixed strategies <br>
 - Repeated games <br>
 - Signaling games <br>
-- Matching theory'
+- Matching theory
 
-**Paper Discussion**
+**Paper Discussion** <br>
 *Pricing*
 - Chen, Y., Narasimhan, C., & Zhang, Z. J. (2001). Individual marketing with imperfect targetability. *Marketing Science*, 20(1), 23-41.
 - Shin, J., & Sudhir, K. (2010). A customer management dilemma: When is it profitable to reward one's own customers?. *Marketing Science*, 29(4), 671-689. 
