@@ -22,9 +22,9 @@ feature_row1:
   - title: "Theory of Consumer Behavior and Decision Making"
     excerpt: '<span style="background-color: #8DD7BF; border-radius: 5px; padding: 2px 6px; font-size: 14px;"> marketing </span><br> <span style="font-family: Montserrat, sans-serif; font-size: 16px;">&#x0023;consumer&#x005F;behavior &#x0023;paper&#x005F;discussion &#x0023;thought&#x005F;paper &#x0023;research&#x005F;proposal</span><br>
     Semester: 22 Spring, Master&#x2019;s degree<br>'
-    #url: "https://soo-13.github.io/cw2"
-    #btn_label: "Read More"
-    #btn_class: "btn--primary"
+    url: "https://soo-13.github.io/cw2"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - title: "Applied Econometrics"
     excerpt: '<span style="background-color: #FFA23A; border-radius: 5px; padding: 2px 6px; font-size: 14px;"> methodology </span><br> <span style="font-family: Montserrat, sans-serif; font-size: 16px;">&#x0023;econometrics &#x0023;STATA &#x0023;paper&#x005F;discussion</span><br>
     Semester:22 Spring, Master&#x2019;s degree<br>'
