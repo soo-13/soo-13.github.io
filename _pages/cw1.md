@@ -14,10 +14,14 @@ feature_row1:
     Mixed strategies <br>
     Repeated games <br>
     Signaling games'
+  - title: "Paper Discussion"
+    excerpt: 'blahblah'
+
 ---
 # Quantitative Models for Marketing Decisions
-Instructor: professor Junju Yu
+Instructor: professor Junju Yu <br>
 Department: College of Business 
 
 ---
-**Course Overview**
+# Course Overview
+{% include feature_row id="feature_row1" %}
