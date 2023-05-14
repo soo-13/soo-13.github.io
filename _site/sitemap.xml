@@ -11,10 +11,13 @@
 <loc>http://localhost:4000/activities/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/course_work/</loc>
+<loc>http://localhost:4000/coursework/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/cv/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/_pages/cw1/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/exp1/</loc>

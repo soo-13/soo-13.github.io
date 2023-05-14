@@ -12,7 +12,7 @@ feature_row:
   - image_path: assets/images/profile2.jpeg
     alt: "placeholder image 1"
     title: Welcome!
-    excerpt: "I'm Yeonsoo Lee, a graduate student at The School of Business and Technology Management, KAIST. I am studying quantitative marketing and my research interest includes social media marketing, advertising, and visual aesthetics. I am interested in generating insights regarding visual content by applying computer vision and deeplearning. <br/><br/> I like fun things. I like hang out with people and listening to different thoughts."
+    excerpt: "I'm Yeonsoo Lee, a graduate student at The School of Business and Technology Management, KAIST. I am studying quantitative marketing and my research interest includes social media marketing, advertising, and aesthetics evaluation of consumer. I am interested in generating insights from visual content by applying computer vision and deeplearning. <br/><br/> I like fun things. I like hang out with people and listening to different thoughts. I like simple and fun idea that everyone can connect to. "
 
 ---
 {% include feature_row id="feature_row" type="left" %}
@@ -24,7 +24,6 @@ feature_row:
     - Major: The School of Business and Technology Management (Marketing)
     - Advisor: Prof. Hye-jin Kim
 <br/>
-
 
 - B.S. **Korea Advanced Institute of Science and Techology (KAIST)** - Daejeon (South-Korea)
   *(Mar.2016 - Feb.2022)*  
