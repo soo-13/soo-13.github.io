@@ -1,6 +1,6 @@
 ---  
 title: "Selected Coursework"
-permalink: /cw1/
+permalink: /cw2/
 layout: splash
 classes: wide
 author_profile: true
@@ -14,5 +14,8 @@ Department: The School of Business and Technology Management
 
 ---
 ## Course Overview
-*W3 New Technology and Consumer Behavior*
+**W3 New Technology and Consumer Behavior**
+xw
+*Thought Paper*<br>
+
 

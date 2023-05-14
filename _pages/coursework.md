@@ -1,7 +1,8 @@
 ---  
 title: "Selected Coursework"
 permalink: /coursework/
-layout:  splash
+layout: splash
+classes: wide
 author_profile: true
 header:
   overlay_image: /assets/images/backgroundYS.jpeg
