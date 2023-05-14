@@ -15,5 +15,9 @@ feature_row1:
     Repeated games <br>
     Signaling games'
 ---
+# Quantitative Models for Marketing Decisions
+Instructor: professor Junju Yu
+Department: College of Business 
 
-Hello!
+---
+**Course Overview**
