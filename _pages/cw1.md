@@ -14,7 +14,6 @@ Department: College of Business
 ---
 # Course Overview
 The course consists of introductory lectures on basic concepts of game theory and paper discussion
-{% include feature_row id="feature_row1" %}
 
 **Introductory Lecture**
 - Sequential vs. simultaneous move games <br> 

@@ -12,7 +12,7 @@ feature_row:
   - image_path: assets/images/profile2.jpeg
     alt: "placeholder image 1"
     title: Welcome!
-    excerpt: "I'm Yeonsoo Lee, a graduate student at The School of Business and Technology Management, KAIST. My focus is on quantitative marketing, with research interests in social media marketing, advertising, and aesthetics evaluation of consumer behavior. I'm particularly interested in generating insights from visual content by applying computer vision and deeplearning. <br/><br/> I like fun things. I like hang out with people and listening to different thoughts. I like simple and fun idea that everyone can connect to. "
+    excerpt: "I'm Yeonsoo Lee, a graduate student at The School of Business and Technology Management, KAIST. My focus is on quantitative marketing, with research interests spanning social media marketing, advertising, and aesthetics evaluation of consumer behavior. I'm particularly interested in generating insights from visual content by applying computer vision and deeplearning. <br/><br/> I like fun things and value being in control of my choices. I pursue what brings me joy and take full responsibility for it, allowing me to sustain a passionate and fulfilling life. Marketing is fascinating to me because it relates directly to our daily lives - which makes it fun and relatable. I aim to conduct research that is accessible and enjoyable, ensuring that everyone can connect with and find enjoyment in it."
 
 ---
 {% include feature_row id="feature_row" type="left" %}
