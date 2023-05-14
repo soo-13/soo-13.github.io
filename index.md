@@ -35,7 +35,8 @@ feature_row:
 &#x1F525;**Upcoming**&#x1F525; Presenting at the ISMS Marketing Science Conference in Miami *23.06.09* <br>
 &#x1F64C; Participated in the KU Interational Symposium of Marketing *23.05.12*  <br>
 &#x1F4E2;&#xFE0F; Presented [my latest research](https://soo-13.github.io/research1/) at a conference held by The Korean Association for Information Society *23.05.12* <br>
-&#x1F64C; Joined Linkedin![Follow me](https://www.linkedin.com/in/yeonsoo-lee-smileystar) *23.03.24*  <br>
+&#x1F64C; Joined Linkedin! &#x1F449;[Follow me](https://www.linkedin.com/in/yeonsoo-lee-smileystar/)&#x1F448; *23.03.24*  <br>
+
 <!-- 
 ## Skills
 Tools &#30; **Python, R, Qualtrics, Linux, Latex** <br>
