@@ -126,6 +126,10 @@ feature_row4:
 
 {% include feature_row id="intro" type="center" %}
 
+Coming soon!
+
+<!-- 
+
 {% include feature_row %}
 
  
@@ -135,7 +139,7 @@ feature_row4:
 {% include feature_row id="feature_row4" %}
 
 
-<!--  {% include feature_row id="feature_row2" type="left" %}
+ {% include feature_row id="feature_row2" type="left" %}
 
  {% include feature_row id="feature_row3" type="right" %}
 
