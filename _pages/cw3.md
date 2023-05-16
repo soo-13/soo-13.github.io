@@ -12,8 +12,8 @@ feature_row1:
   - image_path: assets/images/AE_hw.png
     alt: "placeholder image 1"
     excerpt: '<span style="text-align: left; font-size: 20px;"><strong>Course Schedule</strong><br>
-  <li> Panel data &middot; </li>
-  <li> Binary outcome models &middot; </li>
+&bullet; Panel data
+&bullet; Binary outcome models 
 - Multinomial models <br>
 - Tobit and selection models <br>
 - Treatment effects and regression <br>
