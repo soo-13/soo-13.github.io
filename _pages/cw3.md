@@ -11,16 +11,16 @@ header:
 feature_row1:
   - image_path: assets/images/AE_hw.png
     alt: "placeholder image 1"
-    excerpt: '<span style="display: inline-block; text-align: left; font-size: 20px;"><strong>Course Schedule</strong><br>
-&#8226; Panel data
-&#8226; Binary outcome models 
-- Multinomial models <br>
-- Tobit and selection models <br>
-- Treatment effects and regression <br>
-- Matching <br>
-- Instrument Variables <br>
-- Differences-in-Differences <br>
-- Regression Discontinuity <br></span>' 
+    excerpt: '<span style="display: inline-block; text-align: left; font-size: 20px;"><strong>Course Schedule</strong><br><br>
+&#x25CF; Panel data <br>
+&#x25CF; Binary outcome models <br>
+&#x25CF; Multinomial models <br>
+&#x25CF; Tobit and selection models <br>
+&#x25CF; Treatment effects and regression <br>
+&#x25CF; Matching <br>
+&#x25CF; Instrument Variables <br>
+&#x25CF; Differences-in-Differences <br>
+&#x25CF; Regression Discontinuity <br></span>' 
 ---
 # Applied Econometrics
 Instructor: professor Chamna Yoon <br>
