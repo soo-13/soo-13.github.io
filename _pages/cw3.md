@@ -11,7 +11,7 @@ header:
 feature_row1:
   - image_path: assets/images/AE_hw.png
     alt: "placeholder image 1"
-    excerpt: '<span style="text-align: left;"><strong>Course Schedule</strong><br>
+    excerpt: '<span style="text-align: left; font-size: 24px;"><strong>Course Schedule</strong><br>
 - Panel data <br> 
 - Binary outcome models <br>
 - Multinomial models <br>
@@ -28,7 +28,7 @@ Department: College of Business <br>
 Grade: A+ 
 
 ---
-{% include feature_row id="feature_row1" type="right" %}
+{% include feature_row id="feature_row1" type="left" %}
 <!-- 
 **Course Schedule**
 - Panel data <br> 
