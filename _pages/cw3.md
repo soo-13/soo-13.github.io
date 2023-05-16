@@ -7,6 +7,19 @@ author_profile: true
 header:
   overlay_image: /assets/images/backgroundYS.jpeg
 
+feature_row1:
+  - image_path: assets/images/AE_hw.jpeg
+    alt: "placeholder image 1"
+    title: "Course Schedule"
+    excerpt: '&#x1002D; Panel data <br> 
+&#x1002D; Binary outcome models <br>
+&#x1002D; Multinomial models <br>
+&#x1002D; Tobit and selection models <br>
+&#x1002D; Treatment effects and regression <br>
+&#x1002D; Matching <br>
+&#x1002D; Instrument Variables <br>
+&#x1002D; Differences-in-Differences <br>
+&#x1002D; Regression Discontinuity <br>' 
 ---
 # Applied Econometrics
 Instructor: professor Chamna Yoon <br>
@@ -14,6 +27,8 @@ Department: College of Business <br>
 Grade: A+ 
 
 ---
+{% include feature_row id="feature_row" type="right" %}
+<!-- 
 **Course Schedule**
 - Panel data <br> 
 - Binary outcome models <br>
@@ -23,7 +38,7 @@ Grade: A+
 - Matching <br>
 - Instrument Variables <br>
 - Differences-in-Differences <br>
-- Regression Discontinuity <br>
+- Regression Discontinuity <br> -->
 
 **Paper Discussion**
 - Aron-Dine, A., Einav, L., & Finkelstein, A. (2013). The RAND health insurance experiment, three decades later. *Journal of Economic Perspectives*, 27(1), 197-222.
