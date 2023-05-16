@@ -1,7 +1,7 @@
 ---  
 title: "Selected Coursework"
 permalink: /cw3/
-layout: splash
+layout: single
 classes: wide
 author_profile: true
 header:
@@ -28,7 +28,7 @@ Department: College of Business <br>
 Grade: A+ 
 
 ---
-{% include feature_row id="feature_row" type="right" %}
+{% include feature_row id="feature_row1" type="right" %}
 <!-- 
 **Course Schedule**
 - Panel data <br> 
