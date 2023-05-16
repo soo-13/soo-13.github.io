@@ -6,6 +6,7 @@ classes: wide
 author_profile: true
 header:
   overlay_image: /assets/images/backgroundYS.jpeg
+  overlay_filter: 0.2
 ---
 # Quantitative Models for Marketing Decisions
 Instructor: professor Junju Yu <br>

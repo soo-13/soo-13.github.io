@@ -1,11 +1,12 @@
 ---  
 title: "Selected Coursework"
 permalink: /cw3/
-layout: single
+layout: splash
 classes: wide
 author_profile: true
 header:
   overlay_image: /assets/images/backgroundYS.jpeg
+  overlay_filter: 0.2
 
 feature_row1:
   - image_path: assets/images/AE_hw.jpeg
