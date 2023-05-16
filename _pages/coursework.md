@@ -28,7 +28,7 @@ feature_row1:
   - title: "Applied Econometrics"
     excerpt: '<span style="background-color: #FFA23A; border-radius: 5px; padding: 2px 6px; font-size: 14px;"> methodology </span><br> <span style="font-family: Montserrat, sans-serif; font-size: 16px;">&#x0023;econometrics &#x0023;STATA &#x0023;paper&#x005F;discussion</span><br>
     Semester:22 Spring, Master&#x2019;s degree<br>'
-    url: "https://soo-14.github.io/cw3"
+    url: "https://soo-13.github.io/cw3"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
