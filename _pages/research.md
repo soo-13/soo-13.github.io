@@ -8,6 +8,11 @@ header:
   overlay_image: /assets/images/backgroundYS.jpeg
   overlay_filter: 0.2
 ---
+<style>
+p {
+  text-indent: 0;
+}
+</style>
 
 ## Research In Progress
 - Yeonsoo Lee, Eunsoo Kim, Hye-jin Kim. "The Body Speaks: the Effects of Machine-Extracted Body Pose in Image Contents" *(manuscripted)*
