@@ -11,9 +11,9 @@ header:
 feature_row1:
   - image_path: assets/images/AE_hw.png
     alt: "placeholder image 1"
-    excerpt: '<span style="text-align: left; font-size: 24px;"><strong>Course Schedule</strong><br>
-- Panel data <br> 
-- Binary outcome models <br>
+    excerpt: '<span style="text-align: left; font-size: 20px;"><strong>Course Schedule</strong><br>
+  <li> Panel data &middot; </li>
+  <li> Binary outcome models &middot; </li>
 - Multinomial models <br>
 - Tobit and selection models <br>
 - Treatment effects and regression <br>
@@ -28,7 +28,7 @@ Department: College of Business <br>
 Grade: A+ 
 
 ---
-{% include feature_row id="feature_row1" type="left" %}
+{% include feature_row id="feature_row1" type="right" %}
 <!-- 
 **Course Schedule**
 - Panel data <br> 
