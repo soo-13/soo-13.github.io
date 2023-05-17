@@ -31,8 +31,8 @@ Department: College of Business <br>
 Grade: A+ 
 
 ---
-{% include feature_row id="feature_row1" type="left" %}
-<!-- 
+<!-- {% include feature_row id="feature_row1" type="left" %}-->
+
 **Course Schedule**
 - Panel data <br> 
 - Binary outcome models <br>
@@ -42,7 +42,7 @@ Grade: A+
 - Matching <br>
 - Instrument Variables <br>
 - Differences-in-Differences <br>
-- Regression Discontinuity <br> -->
+- Regression Discontinuity <br>
 
 **Paper Discussion**
 - Aron-Dine, A., Einav, L., & Finkelstein, A. (2013). The RAND health insurance experiment, three decades later. *Journal of Economic Perspectives*, 27(1), 197-222.
