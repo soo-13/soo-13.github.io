@@ -12,8 +12,8 @@ feature_row1:
   - image_path: assets/images/AE_hw.png
     alt: "placeholder image 1"
     excerpt: '<span style="display: inline-block; text-align: left; font-size: 20px;"><strong>Course Schedule</strong><br>
-    <span style="font-size: 32px;">&#x2022;</span> Panel data <br>
-    <span style="font-size: 32px;">&#x2022;</span> Binary outcome models <br>
+    <span style="margin-left: 1.5em; padding-left: 0; font-size: 32px;">&#x2022;</span> Panel data <br>
+    <span style="margin-left: 1.5em; padding-left: 0; font-size: 32px;">&#x2022;</span> Binary outcome models <br>
     <span style="font-size: 32px;">&#x2022;</span> Multinomial models <br>
     <span style="font-size: 32px;">&#x2022;</span> Tobit and selection models <br>
     <span style="font-size: 32px;">&#x2022;</span> Treatment effects and regression <br>
