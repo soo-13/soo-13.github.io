@@ -44,6 +44,7 @@ Grade: A+
 - Differences-in-Differences <br>
 - Regression Discontinuity <br>
 
+---
 **Paper Discussion**
 - Aron-Dine, A., Einav, L., & Finkelstein, A. (2013). The RAND health insurance experiment, three decades later. *Journal of Economic Perspectives*, 27(1), 197-222.
 - LaLonde, R. J. (1986). Evaluating the econometric evaluations of training programs with experimental data. *The American economic review*, 604-620. *[&#91;Team Presentation&#93;](https://soo-13.github.io/assets/pdf/AE_presentation.pdf)*
