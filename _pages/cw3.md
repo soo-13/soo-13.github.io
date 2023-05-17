@@ -11,16 +11,17 @@ header:
 feature_row1:
   - image_path: assets/images/AE_hw.png
     alt: "placeholder image 1"
-    excerpt: '<span style="display: inline-block; text-align: left; font-size: 20px;"><strong>Course Schedule</strong><br>
-    <span style="margin-left: 1.5em; padding-left: 0; font-size: 32px;">&#x2022;</span> Panel data <br>
-    <span style="margin-left: 1.5em; padding-left: 0; font-size: 32px;">&#x2022;</span> Binary outcome models <br>
-    <span style="font-size: 32px;">&#x2022;</span> Multinomial models <br>
-    <span style="font-size: 32px;">&#x2022;</span> Tobit and selection models <br>
-    <span style="font-size: 32px;">&#x2022;</span> Treatment effects and regression <br>
-    <span style="font-size: 32px;">&#x2022;</span> Matching <br>
-    <span style="font-size: 32px;">&#x2022;</span> Instrument Variables <br>
-    <span style="font-size: 32px;">&#x2022;</span> Differences-in-Differences <br>
-    <span style="font-size: 32px;">&#x2022;</span> Regression Discontinuity <br></span>' 
+    excerpt: '<div style="display: inline-block; text-align: left; font-size: 20px; width: 70%"><strong>Course Schedule</strong><br>
+    <span style="margin-left: 1em; padding-left: 0; font-size: 32px;">&#x2022;</span> Panel data <br>
+    <span style="margin-left: 1em; padding-left: 0; font-size: 32px;">&#x2022;</span> Binary outcome models <br>
+    <span style="margin-left: 1em; padding-left: 0; font-size: 32px;">&#x2022;</span> Multinomial models <br>
+    <span style="margin-left: 1em; padding-left: 0; font-size: 32px;">&#x2022;</span> Tobit and selection models <br>
+    <span style="margin-left: 1em; padding-left: 0; font-size: 32px;">&#x2022;</span> Treatment effects and regression <br>
+    <span style="margin-left: 1em; padding-left: 0; font-size: 32px;">&#x2022;</span> Matching <br>
+    <span style="margin-left: 1em; padding-left: 0; font-size: 32px;">&#x2022;</span> Instrument Variables <br>
+    <span style="margin-left: 1em; padding-left: 0; font-size: 32px;">&#x2022;</span> Differences-in-Differences <br>
+    <span style="margin-left: 1em; padding-left: 0; font-size: 32px;">&#x2022;</span> Regression Discontinuity <br></div>
+    <div style="display: inline-block; width: 30%; text-align: right;"><img src="/assets/images/AE_hw.png" alt="placeholder image 1"></div>' 
   # - image_path: assets/images/AE_hw1.png
   #  alt: "placeholder image 2"
 ---
@@ -30,7 +31,7 @@ Department: College of Business <br>
 Grade: A+ 
 
 ---
-{% include feature_row id="feature_row1" type="right" %}
+{% include feature_row id="feature_row1" type="left" %}
 <!-- 
 **Course Schedule**
 - Panel data <br> 
