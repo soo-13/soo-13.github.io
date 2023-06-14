@@ -34,7 +34,7 @@ feature_row:
 
 
 ## Latest News!!
-&#x1F4E2;&#xFE0F;  Presented at the ISMS Marketing Science Conference in Miami *23.06.09* <br> &#x1F449;[See the abstract](https://soo-13.github.io/research1/)
+&#x1F4E2;&#xFE0F; Presented at the ISMS Marketing Science Conference in Miami *23.06.09*  &#x1F449;[See the abstract](https://soo-13.github.io/research1/) <br>
 &#x1F64C; Participated in the KU Interational Symposium of Marketing *23.05.12*  <br>
 &#x1F4E2;&#xFE0F; Presented at 2023 Spring Conference held by The Korean Association for Information Society *23.05.12* <br>
 &#x1F64C; Joined Linkedin! &#x1F449;[Connect with me](https://www.linkedin.com/in/yeonsoo-lee-smileystar/)&#x1F448; *23.03.24*  <br>

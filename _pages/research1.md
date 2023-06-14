@@ -11,17 +11,17 @@ header:
 feature_row1:
   - image_path: assets/images/Skeleton.png
     alt: "placeholder image 1"
-    title: "Skeleton extraction"
+    excerpt: "Skeleton extraction"
   - image_path: assets/images/Expansiveness.png
     alt: "placeholder image 2"
-    title: "Expansiveness (high vs. low)"
+    excerpt: "Expansiveness (high vs. low)"
 feature_row2:
   - image_path: assets/images/Dynamism.png
     alt: "placeholder image 1"
-    title: "Dynamism (high vs. low)"
+    excerpt: "Dynamism (high vs. low)"
   - image_path: assets/images/Form.png
     alt: "placeholder image 2"
-    title: "Body Form"
+    excerpt: "Body Form"
 
 ---
   
