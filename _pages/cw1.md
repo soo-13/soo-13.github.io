@@ -11,6 +11,7 @@ header:
 # Quantitative Models for Marketing Decisions
 Instructor: professor Junju Yu <br>
 Department: College of Business 
+Grade: A+ <br>
 
 ---
 # Course Overview
@@ -42,5 +43,5 @@ The course consists of introductory lectures on basic concepts of game theory an
 - Dewatripont, M., & Tirole, J. (2005). Modes of communication. Journal of political economy, 113(6), 1217-1238.
 
 *Targeted advertising*
-- Summers, C. A., Smith, R. W., & Reczek, R. W. (2016). An audience of one: Behaviorally targeted ads as implied social labels. *Journal of Consumer Research*, 43(1), 156-178.
+- Summers, C. A., Smith, R. W., & Reczek, R. W. (2016). An audience of one: Behaviorally targeted ads as implied social labels. *Journal of Consumer Research*, 43(1), 156-178.  *[&#91;Discussion Leader&#93;](https://soo-13.github.io/assets/pdf/W13DL.pdf)*
 - Shin, J., & Yu, J. (2021). Targeted advertising and consumer inference. *Marketing Science*, 40(5), 900-922.
