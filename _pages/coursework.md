@@ -40,7 +40,7 @@ feature_row2:
     #btn_label: "Read More"
     #btn_class: "btn--primary"   
   - title: "AI for Business Management"
-    excerpt: '<span style="background-color: #FF96C5; border-radius: 5px; padding: 2px 6px; font-size: 14px;"> Computer Science </span><br> <span style="font-family: Montserrat, sans-serif; font-size: 16px;">&#x0023;AI &#x0023;machine&#x005F;learning &#x0023;final&#x005F;project</span><br>
+    excerpt: '<span style="background-color: #FF96C5; border-radius: 5px; padding: 2px 6px; font-size: 14px;"> computer Science </span><br> <span style="font-family: Montserrat, sans-serif; font-size: 16px;">&#x0023;AI &#x0023;machine&#x005F;learning &#x0023;final&#x005F;project</span><br>
     Semester: 23 Spring, Master&#x2019;s degree<br>'
     #url: "https://soo-13.github.io/cw2"
     #btn_label: "Read More"
