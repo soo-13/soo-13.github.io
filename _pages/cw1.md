@@ -10,8 +10,8 @@ header:
 ---
 # Quantitative Models for Marketing Decisions
 Instructor: professor Junju Yu <br>
-Department: College of Business 
-Grade: A+ <br>
+Department: College of Business <br>
+Grade: A+ 
 
 ---
 # Course Overview
