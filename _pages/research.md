@@ -7,7 +7,7 @@ author_profile: true
 header:
   overlay_image: /assets/images/backgroundYS.jpeg
   overlay_filter: 0.2
----
+
 
 intro:
  - excerpt: '&#128293;; Exploring Business World with Creativity and Rigor &#128293;;'
