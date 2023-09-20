@@ -29,7 +29,8 @@ gallery2:
 
 ---
 {% include feature_row id="intro" type="center" %}
-{% include feature_row id="gallery1" %}
+{% include gallery id="gallery1" layout="half" %}
+{% include gallery id="gallery2" layout="half" %}
 
 <!-- 
 ---
