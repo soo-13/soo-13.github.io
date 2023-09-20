@@ -2,7 +2,7 @@
 title: "Profile"
 permalink: /
 layout: splash
-classes: wide
+classes: single
 author_profile: true
 header:
   overlay_image: /assets/images/backgroundYS.jpeg

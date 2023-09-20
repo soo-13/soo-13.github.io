@@ -23,7 +23,7 @@ gallery1:
 
 gallery2:
   - excerpt: 'Have you visited a store at a regular opening hours, only to find out that they are temporarily closed? Have you ever waited in a long line in front of a restaurant, only to find out that they are out of ingredients? Most retailers strive to create the best consumer experience and meet consumer demand. Some retailers, however, purposefully create uncertainty in product unavailability and make uvailability information unpredictable for customers prior to their visits (which we term <q> unpredictable marketing</q>). This research project seeks explanation for this seemingly irrational behavior of retailers. Through analytical modeling, we find that unpredictable marketing can signal good quality when product availability is neither too high nor too low and search cost sufficiently low. Specifically, it is better-off for high-quality firm to credibly signal good quality at the cost of losing some demand because consumers value high-quality product and many customers will still want to buy despite the unpredictability. The low-quality firm, on the other hand, cannot mimic this strategy since few customers would risk unpredictability for the low-quality good. Our findings provides explanation on marketing strategy in reality and show under which condition it is successful.'
-  - title: "Yeonsoo Lee, Jungju Yu. <q>Embracing the Unpredictable: The Quality-signaling Role of Unpredictability.</q>"
+  - title: "Yeonsoo Lee, Jungju Yu. <q>Embracing the Unpredictable: The Quality-signaling Role of Unpredictability.</q>" 
     
   
 
