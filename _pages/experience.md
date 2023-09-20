@@ -11,17 +11,18 @@ intro:
   - excerpt: '&#x1F331; Growing up through experience &#x1F331;'
 
 feature_row1:
-  - image_path: assets/images/exp_0.png
+  - image_path: assets/images/exp_0.JPEG
     alt: "placeholder image 1"
-    title: "BTM Volunteer Work BTM"
+    title: "BTM Volunteer Work"
     excerpt: '<span style="font-family: Montserrat, sans-serif; font-size: 16px;">&#x0023;bimonthly&#x005F;volunteer&#x005F;work &#x0023;charcoal&#x005F;delivery &#x0023;uplifting&#x005F;events&#x005F;for&#x005F;children </span>'
       
   - image_path: /assets/images/exp_1.JPG
     alt: "placeholder image 2"
-    title: "Presentation at 2023 ISMS Marketing Science Conference"
-    excerpt: '<span style="font-family: Montserrat, sans-serif; font-size: 16px;">&#x0023;first&#x005F;international&#x005F;conference &#x0023;Miami &#x0023;The&#x005F;Body&#x005F;Speaks </span>'
+    title: "2023 ISMS Marketing Science Conference"
+    excerpt: '<span style="font-family: Montserrat, sans-serif; font-size: 16px;">&#x0023;The&#x005F;Body&#x005F;Speaks &#x0023;first&#x005F;international&#x005F;conference &#x0023;Miami </span>'
     url: "https://soo-13.github.io/research1"
     btn_label: "View Abstract"
+    btn_class: "btn--primary"   
 
   - image_path: /assets/images/exp_han1.png
     title: "Hanium"
