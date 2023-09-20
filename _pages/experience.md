@@ -13,11 +13,9 @@ intro:
 feature_row:
   - image_path: assets/images/exp_0.png
     alt: "placeholder image 1"
-    title: "AI Innovation Square <br/> (AI Business Model Course)"
-    excerpt: '<span style="background-color: #FA8072; border-radius: 5px; padding: 2px 6px; font-size: 14px;">research</span>'
-    url: "https://haribojun.github.io/exp0"
-    btn_label: "Read More"
-    btn_class: "btn--primary"   
+    title: "BTM Volunteer Work BTM"
+    excerpt: '<span style="font-family: Montserrat, sans-serif; font-size: 16px;">&#x0023;bimonthly&#x005F;volunteer&#x005F;work &#x0023;charcoal&#x005F;delivery &#x0023;uplifting&#x005F;events&#x005F;for&#x005F;children </span>'
+      
   - image_path: /assets/images/exp_1.png
     alt: "placeholder image 2"
     title: "Increasing Accuracy of Stock Price Pattern Prediction through Data Augmentation for Deep Learning"

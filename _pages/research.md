@@ -10,7 +10,7 @@ header:
 
 
 intro:
- - excerpt: '&#128293;; Exploring Business World with Creativity and Rigor &#128293;;'
+ - excerpt: '&#128293; Exploring Business World with Creativity and Rigor &#128293;'
 
 
 feature_row1:
