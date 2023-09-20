@@ -11,7 +11,7 @@ intro:
   - excerpt: '&#x1F331; Growing up through experience &#x1F331;'
 
 feature_row1:
-  - image_path: assets/images/exp_0.JPEG
+  - image_path: assets/images/exp_0.jpg
     alt: "placeholder image 1"
     title: "BTM Volunteer Work"
     excerpt: '<span style="font-family: Montserrat, sans-serif; font-size: 16px;">&#x0023;bimonthly&#x005F;volunteer&#x005F;work &#x0023;charcoal&#x005F;delivery &#x0023;uplifting&#x005F;events&#x005F;for&#x005F;children </span>'
