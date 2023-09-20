@@ -10,25 +10,23 @@ header:
 intro:
   - excerpt: '&#x1F331; Growing up through experience &#x1F331;'
 
-feature_row:
+feature_row1:
   - image_path: assets/images/exp_0.png
     alt: "placeholder image 1"
     title: "BTM Volunteer Work BTM"
     excerpt: '<span style="font-family: Montserrat, sans-serif; font-size: 16px;">&#x0023;bimonthly&#x005F;volunteer&#x005F;work &#x0023;charcoal&#x005F;delivery &#x0023;uplifting&#x005F;events&#x005F;for&#x005F;children </span>'
       
-  - image_path: /assets/images/exp_1.png
+  - image_path: /assets/images/exp_1.JPG
     alt: "placeholder image 2"
-    title: "Increasing Accuracy of Stock Price Pattern Prediction through Data Augmentation for Deep Learning"
-    excerpt: "Role: Team Leader"
-    url: "https://haribojun.github.io/exp1"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    title: "Presentation at 2023 ISMS Marketing Science Conference"
+    excerpt: '<span style="font-family: Montserrat, sans-serif; font-size: 16px;">&#x0023;first&#x005F;international&#x005F;conference &#x0023;Miami &#x0023;The&#x005F;Body&#x005F;Speaks </span>'
+    url: "https://soo-13.github.io/research1"
+    btn_label: "View Abstract"
+
   - image_path: /assets/images/exp_han1.png
     title: "Hanium"
     excerpt: "Projects with ICT industry experts"
-    url: "https://haribojun.github.io/exp2"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    
 
 
 feature_row2:
@@ -123,8 +121,8 @@ feature_row4:
 ---
 
 {% include feature_row id="intro" type="center" %}
+{% include feature_row id="feature_row1" %}
 
-Coming soon!
 
 <!-- 
 
