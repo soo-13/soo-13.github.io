@@ -1,7 +1,7 @@
 ---  
 title: "Research"
 permalink: /research/
-layout: splash
+layout: splash2
 classes: wide
 author_profile: true
 header:
