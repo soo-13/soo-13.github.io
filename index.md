@@ -11,8 +11,9 @@ header:
 feature_row:
   - image_path: assets/images/profile2.jpeg
     alt: "placeholder image 1"
-    title: Welcome! &#x1F308;
-    excerpt: "I'm Yeonsoo Lee, a graduate student at The School of Business and Technology Management, KAIST. My focus is on quantitative marketing, with research interests spanning social media marketing, advertising, and aesthetics evaluation of consumer behavior. I'm particularly interested in generating insights from visual content by applying computer vision and deeplearning. <br/><br/> I like fun things and value being in control of my choices. I pursue what brings me joy and take full responsibility for it, allowing me to sustain a passionate and fulfilling life. Marketing is fascinating to me because it relates directly to our daily lives - which makes it fun and relatable. I aim to conduct research that is accessible and enjoyable so that everyone can connect with and find enjoyment in it.<br/><br/>
+    title: Welcome! &#x1F342;
+    ##excerpt: "I'm Yeonsoo Lee, a graduate student at The School of Business and Technology Management, KAIST. My focus is on quantitative marketing, with research interests spanning social media marketing, advertising, and aesthetics evaluation of consumer behavior. I'm particularly interested in generating insights from visual content by applying computer vision and deeplearning. <br/><br/> I like fun things and value being in control of my choices. I pursue what brings me joy and take full responsibility for it, allowing me to sustain a passionate and fulfilling life. Marketing is fascinating to me because it relates directly to our daily lives - which makes it fun and relatable. I aim to conduct research that is accessible and enjoyable so that everyone can connect with and find enjoyment in it.<br/><br/>
+    excerpt: "I'm Yeonsoo Lee, a graduate student at The School of Business and Technology Management, KAIST. My focus is on quantitative marketing, with research interests spanning social media marketing, digital marketing, and advertising. I'm particularly interested in generating insights on how visual content influences consumer behavior by applying computer vision and deeplearning. <br/><br/> I like fun things and value being in control of my choices. I pursue what brings me joy and take full responsibility for it, allowing me to sustain a passionate and fulfilling life. Marketing is fascinating to me because it relates directly to our daily lives - investigating and resolving curiosities that arise from everyday consumer experiences bring me joy and a sense of accomplishment. I aim to conduct research that is accessible and enjoyable so that everyone can connect with and find enjoyment in it.<br/><br/> 
     &#x1F463; You can find my CV [here](/cv/) <br>
     &#x1F4E7; You can reach me via email: [smileystar@kaist.ac.kr](mailto:smileystar@kaist.ac.kr) or [linkedin](https://www.linkedin.com/in/yeonsoo-lee-smileystar/)"
 
@@ -34,7 +35,8 @@ feature_row:
 
 
 ## Latest News!!
-&#x1F4E2;&#xFE0F; Presented at the ISMS Marketing Science Conference in Miami *23.06.09*  &#x1F449;[See the abstract](https://soo-13.github.io/research1/) <br>
+&#x1F3C6; Granted Kim Young-Han Global Leader Scholarship  *23.07.25* <br>
+&#x1F4E2;&#xFE0F; Presented at the ISMS Marketing Science Conference in Miami *23.06.09*  &#x1F449;[View abstract](https://soo-13.github.io/research1/) <br>
 &#x1F64C; Participated in the KU Interational Symposium of Marketing *23.05.12*  <br>
 &#x1F4E2;&#xFE0F; Presented at 2023 Spring Conference held by The Korean Association for Information Society *23.05.12* <br>
 &#x1F64C; Joined Linkedin! &#x1F449;[Connect with me](https://www.linkedin.com/in/yeonsoo-lee-smileystar/)&#x1F448; *23.03.24*  <br>
