@@ -14,7 +14,7 @@ intro:
 
 
 feature_row1:
-  - title: "Yeonsoo Lee, Eunsoo Kim, Hye-jin Kim. "The Body Speaks: the Effects of Machine-Extracted Body Pose in Image Contents.""
+  - title: "Yeonsoo Lee, Eunsoo Kim, Hye-jin Kim. "The Body Speaks the Effects of Machine-Extracted Body Pose in Image Contents.""
     excerpt: 'presented at ISMS Marketing Science Conference 23.06.09 <br>
     presented at 2023 Spring Conference held by The Korean Association for Information Society 23.05.12'
     url: "https://soo-13.github.io/research1"
