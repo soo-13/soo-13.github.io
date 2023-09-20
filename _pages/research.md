@@ -12,7 +12,6 @@ header:
 intro:
  - excerpt: '&#128293; Exploring Business World with Creativity and Rigor &#128293;'
 
-
 feature_row1:
   - title: "Yeonsoo Lee, Eunsoo Kim, Hye-jin Kim. <q>The Body Speaks: the Effects of Machine-Extracted Body Pose in Image Contents.</q>"
     excerpt: 'presented at ISMS Marketing Science Conference 23.06.09 <br>
