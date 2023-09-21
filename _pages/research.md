@@ -29,8 +29,6 @@ custom_feature_row2:
 
 ---
 {% include feature_row id="intro" type="center" %}
-{% include custom_feature_row id ="custom_feature_row1" layout="half" %}
-{% include custom_feature_row id="custom_feature_row2" layout="half" %}
 
 <!-- 
 ---
