@@ -29,12 +29,6 @@ custom_feature_row2:
 
 ---
 {% include feature_row id="intro" type="center" %}
-
-<!-- 
----
-## Presentation
-
-- The Body Speaks: the Effects of Machine-Extracted Body Pose in Image Contents
-  - ISMS Marketing Science Conference, Miami, United States 23.06.09 *(scheduled)*
-  - The Korean Association for Information Society, Seoul, Korea 23.05.12 -->
+{% include feature_row id ="custom_feature_row1" layout="half" %}
+{% include feature_row id="custom_feature_row2" layout="half" %}
 
