@@ -24,7 +24,6 @@ feature_row1:
 feature_row2:
   - excerpt: 'Have you ever walked into a store during regular hours, only to find it unexpectedly closed? Or waited in line at a restaurant, only to hear they've run out of ingredients? While most retailers strive to meet consumer demand, some deliberately introduce uncertainty in product availability and make the availability information unpredictable prior to a visit — a phenomenon we call 'unpredictable marketing.' This research project seeks to explain this seemingly irrational behavior of retailers. Through analytical modeling, we find that unpredictable marketing can signal good quality when product availability falls within an intermediate range and search cost is sufficiently low relative to the product utility. Specifically, it is better-off for high-quality firm to credibly signal its good quality through unpredictable marketing at the cost of losing some demand because there are sufficient consumers who highly value the high-quality product enought to tolerate unpredictability. The low-quality firm, on the other hand, cannot mimic this strategy because few customers would risk unpredictability for the low-quality product. Our findings suggest that unpredictable marketing can be an effective strategy under specific conditions despite the risk of missing out on some demands.'
   - title: "Yeonsoo Lee, Jungju Yu. <q>Embracing the Unpredictable: The Quality-signaling Role of Unpredictability.</q>" 
-    
   
 
 ---
@@ -33,3 +32,5 @@ feature_row2:
 {% include feature_row id="feature_row1" type="left" %}
 {% include feature_row id="feature_row1" type="right" %}
 
+## Publications
+- Yeonsoo Lee, Hye-jin Kim (2021). “Analysis of New Market Structure Using Text Mining and Consumer Perceptions Map: The Case of the Korean Craft Beer Market.” *The Journal of Information Systems* 30.2: 189-214. &#x1F449;[View abstract](https://soo-13.github.io/research0/) <br>
