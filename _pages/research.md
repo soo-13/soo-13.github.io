@@ -24,7 +24,7 @@ header:
 
 ---
 ## Publications
-- Yeonsoo Lee, Hye-jin Kim (2021). “Analysis of New Market Structure Using Text Mining and Consumer Perceptions Map: The Case of the Korean Craft Beer Market.” *The Journal of Information Systems* 30.2: 189-214. &#x1F449;[View abstract](https://soo-13.github.io/research0/) <br>
+- Yeonsoo Lee, Hye-jin Kim (2021). “Analysis of New Market Structure Using Text Mining and Consumer Perceptions Map: The Case of the Korean Craft Beer Market.” *The Journal of Information Systems* 30.2: 189-214. &#x1F449;[View abstract](https://soo-13.github.io/research0/) 
 
 <!-- 
 ---
