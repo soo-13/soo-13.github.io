@@ -47,16 +47,13 @@
 <loc>http://localhost:4000/exp6/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/exp7/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/experience/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/_pages/research/</loc>
+<loc>http://localhost:4000/research/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/research0/</loc>
@@ -65,7 +62,7 @@
 <loc>http://localhost:4000/research1/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/research_single/</loc>
+<loc>http://localhost:4000/_pages/research_splash/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/assets/pdf/AE_presentation.pdf</loc>
